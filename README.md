@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ktrumbore (call me Kendall!)
-- I'm a graphic design and design management major at Cabrini University. 
-- My biggest interest is in brand and identity design. 
-- I’m currently learning HTML, CSS, and JavaScript.
+- 👋 Hi, I’m @ktrumbore, but you can call me Kendall!
+- I'm a double major in graphic design and design management at Cabrini University. 
+- As a designer, my biggest interests revolve around brand design and identity design. 
+- I’m currently learning HTML, CSS, and JavaScript with practice in Visual Studio Code and CodePen. 
 
 <!---
 ktrumbore/ktrumbore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
